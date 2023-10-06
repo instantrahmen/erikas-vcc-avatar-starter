@@ -1,0 +1,8 @@
+{
+	"name" : "com.vrchat.template.avatar-starter",
+	"displayName" : "Erika's Starter: Avatar",
+	"description" : "Has everything I need for my avatar projects.",
+	"version" : "1.0.0",
+	"category" : "ProjectTemplate",
+	"dependencies" : {}
+}
