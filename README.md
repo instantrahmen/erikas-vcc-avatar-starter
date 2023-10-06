@@ -1,6 +1,3 @@
-# vrc-template-Avatar
+# Erika's Avatar Starter Template
 
-This template sets up a VRChat Project
-
-Package Name: com.vrchat.templates.avatar
-Package Version: 1.0.1
+To get started, clone or degit this repo into your VCC templates folder
